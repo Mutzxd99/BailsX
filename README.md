@@ -8,7 +8,7 @@
 ## Usage
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github: Bealllevey62/xatabail"
+  "@whiskeysockets/baileys": "github: Mutzxd99/Bailsx"
 }
 ```
 ## Import
@@ -19,18 +19,18 @@ const {
 ```
 
 ```javascript
-await Xata.relayMessage(m.chat, {
+await Mutz.relayMessage(m.chat, {
   productMessage {
-    title: "Xatanical",
-    description: "Tredict Invictus",
-    thumbnail: { url: "./XataThumb" },
-    url: "https://t.me/xatanicvxii",
+    title: "Mut7xd",
+    description: "Und3fined Tr4sher",
+    thumbnail: { url: "./MutzThumb" },
+    url: "https://t.me/Mutzxd",
     body: "Buy Access",
     footer: "Footer",
     buttons: [
       {
         name: "cta_url",
-        buttonParamsJson: "{\"display_text\":\"Xata.index\",\"url\":\"https://t.me/xatanicvxii\"}"
+        buttonParamsJson: "{\"display_text\":\"Mut7.index\",\"url\":\"https://t.me/xatanicvxii\"}"
       }
     ],
     priceAmount1000: 120.000,
