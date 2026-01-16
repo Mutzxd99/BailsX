@@ -1,16 +1,16 @@
 {
-    "name": "Xatanical/WaBails",
+    "name": "Mutzxd99/WABails",
     "version": "1.7.3",
     "description": "WhatsApp Baileys",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/Bealllevey62/xatabail",
+    "homepage": "https://github.com/Mutzxd99/BailsX",
     "repository": {
-        "url": "https://github.com/Bealllevey62/xatabail"
+        "url": "https://github.com/Mutzxd99/BailsX"
     },
     "license": "MIT",
-    "author": "TREDICT INVICTUS",
+    "author": "UND3FINED TR4SHER",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://Xatanical/xatabail/issues"
+      "url": "https://Mutzxd99/BailsX/issues"
     }
 }
