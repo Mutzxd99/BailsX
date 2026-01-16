@@ -30,7 +30,7 @@ await Mutz.relayMessage(m.chat, {
     buttons: [
       {
         name: "cta_url",
-        buttonParamsJson: "{\"display_text\":\"Mut7.index\",\"url\":\"https://t.me/xatanicvxii\"}"
+        buttonParamsJson: "{\"display_text\":\"Mut7.index\",\"url\":\"https://t.me/Mutzxd\"}"
       }
     ],
     priceAmount1000: 25.000,
