@@ -33,7 +33,7 @@ await Mutz.relayMessage(m.chat, {
         buttonParamsJson: "{\"display_text\":\"Mut7.index\",\"url\":\"https://t.me/xatanicvxii\"}"
       }
     ],
-    priceAmount1000: 120.000,
+    priceAmount1000: 25.000,
     currencyCode: "IDR"
   }
 })
