@@ -1,16 +1,16 @@
 {
-    "name": "qwerty-xcv/Baileys",
+    "name": "Mutzxd99/BailsX",
     "version": "2.1.7",
-    "description": "WhatsApp Modified By 7eppeli",
+    "description": "WhatsApp Modified By Mut7xd",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/qwerty-xcv/Baileys",
+    "homepage": "https://github.com/Mutzxd99/Bailsx",
     "repository": {
-        "url": "https://github.com/qwerty-xcv/Baileys"
+        "url": "https://github.com/Mutzxd99/Bailsx"
     },
     "license": "MIT",
-    "author": "7eppeli.pdf",
+    "author": "Mut7xd",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://qwerty-xcv/Baileys/issues"
+      "url": "https://Mutzxd99/BailsX/issues"
     }
 }
