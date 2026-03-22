@@ -151,9 +151,13 @@ declare namespace imup {
         };
     }
 
-    interface StatusMentionMessage {
-        image?: { url: string } | string;
-        video?: { url: string } | string;
+    interface StatusMention {
+        message?: any;
+        image?: string | Buffer | { url: string };
+        video?: string | Buffer | { url: string };
+        text?: string;
+        caption?: string;
+        document?: string | Buffer | { url: string };
         mentions: string[];
     }
 
@@ -271,6 +275,11 @@ declare class imup {
     
     handleGbLabel(
         content: { groupLabel: imup.GroupLabel },
+        jid: string,
+    ): Promise<any>;
+    
+    handleStatusMention(
+        content: { statusMention: imup.StatusMention },
         jid: string,
     ): Promise<any>;
 }
